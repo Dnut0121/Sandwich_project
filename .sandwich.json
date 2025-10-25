@@ -1,5 +1,5 @@
     {
       "frontendBuildCommand": "npm run build",
-      "backendBuildCommand": ""
+      "backendBuildCommand": "npm install"
       "outputDirectory": "build"
     }
